@@ -1,3 +1,2 @@
 # akshan-24
-first
-git lab
+git lab external
